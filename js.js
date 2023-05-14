@@ -1,0 +1,1 @@
+window.alert("Obrigado por acessar essa Página. Nota: Plataforma em desenvolvimento, nem todos os recursos ainda estão habilitados. Acessar?")
