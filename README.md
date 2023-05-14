@@ -5,7 +5,8 @@ Foi desenvolvido a partir de experiência impírica na função de regulação, 
 
 Primeira versão do projeto datado de: 26 de Março de 2023 (versão: 23.03.1)
 
-Disponível no GitHubPages no endereço: adalto2019.github.io/olaregulador
+Disponível no GitHubPages no endereço: 
+[adalto2019.github.io/olaregulador](adalto2019.github.io/olaregulador)
 
 ### Autor: 
 Adalto Carvalho Ribeiro Simão Junior
